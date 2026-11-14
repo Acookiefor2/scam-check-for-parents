@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded automatically by step1_baseline.py (UCI SMS Spam Collection)
+data/
+
+# Rebuilt by running the steps
+models/
+step3_predictions.csv
